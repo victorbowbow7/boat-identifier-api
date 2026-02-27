@@ -1,0 +1,10 @@
+node_modules/
+.env
+google-credentials.json
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+database.sqlite
+*.log
+.DS_Store
